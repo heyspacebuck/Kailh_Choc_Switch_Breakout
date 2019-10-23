@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SparkFun-Cherry-MX-Switch-Breakout)(type KiCad)(uri "$(KIPRJMOD)/SparkFun-Cherry-MX-Switch-Breakout.pretty")(options "")(descr ""))
+)

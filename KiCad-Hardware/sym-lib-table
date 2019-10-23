@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SparkFun-Cherry-MX-Switch-Breakout-eagle-import)(type Legacy)(uri ${KIPRJMOD}/SparkFun-Cherry-MX-Switch-Breakout-eagle-import.lib)(options "")(descr ""))
+)
