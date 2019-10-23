@@ -1,6 +1,9 @@
-SparkFun Cherry MX Switch Breakout
+Choc-compatible fork of SparkFun Cherry MX Switch Breakout
 ====================
 
+This fork changes the Sparkfun Cherry MX switch breakout to a Kailh Choc switch breakout.
+
+====================
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
    <td><a href="https://www.sparkfun.com/products/13773"><img src="https://cdn.sparkfun.com//assets/parts/1/1/3/2/5/13773-01.jpg" alt="SparkFun Cherry MX Switch Breakout"></a></td>
